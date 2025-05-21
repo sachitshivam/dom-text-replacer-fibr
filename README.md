@@ -13,7 +13,6 @@ This script uses Playwright to fetch web content and lxml to parse the HTML. It 
     ```bash
     git clone git@github.com:sachitshivam/dom-text-replacer-fibr.git
     cd dom-text-replacer-fibr
-    # Navigate to the directory containing the scripts.
     ```
 
 2.  **Create a virtual environment (recommended):**
