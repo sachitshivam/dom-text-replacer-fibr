@@ -11,15 +11,15 @@ This script uses Playwright to fetch web content and lxml to parse the HTML. It 
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/YOUR_USERNAME/YOUR_REPOSITORY.git
-    cd YOUR_REPOSITORY
+    git clone git@github.com:sachitshivam/dom-text-replacer-fibr.git
+    cd dom-text-replacer-fibr
     # Navigate to the directory containing the scripts.
     ```
 
 2.  **Create a virtual environment (recommended):**
     ```bash
     python -m venv venv
-    source venv/bin/activate  # On Windows use `venv\Scripts\activate`
+    source venv/bin/activate
     ```
 
 3.  **Install dependencies:**
