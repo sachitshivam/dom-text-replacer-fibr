@@ -1,4 +1,4 @@
-# Gemini Web Script
+# Dom text replacer
 
 This script uses Playwright to fetch web content and lxml to parse the HTML. It can find and suggest text replacements on a webpage.
 
